@@ -29,7 +29,7 @@ I'm an undergraduate student in **Military Digital Convergence** at **Ajou Unive
 
 # 📝 Publications
 
-- **[J1] Data-Driven Modeling and Control Using a Koopman Autoencoder: Application to a Quadrotor**  
+- **[J1] [Data-Driven Modeling and Control Using a Koopman Autoencoder: Application to a Quadrotor](https://doi.org/10.5139/JKSAS.2026.54.3.263)**  
   **Gyuyeon Lee**, Jongho Park* · *KSAS*, 54(3), 263–274, 2026. (In Korean)
 
 - **[C1] Analysis and Control of Aircraft Rotational Dynamics Based on Koopman Operator**  
