@@ -3,7 +3,7 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -17,42 +17,58 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+# 😃 About me
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I'm an undergraduate student in **Military Digital Convergence** at **Ajou University**, with a minor in **Mechanical Engineering**. My research has focused on **data-driven modeling and control of aerial systems**, particularly Koopman operator-based representation learning and model predictive control for quadrotors.
+
+My research interests include:
+
+- Data-Driven Modeling & Control
+- Autonomous Aerial Systems
+- Koopman Operator & Representation Learning
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📝 Publications 
+- *2026*: Published a journal paper on Koopman autoencoder-based quadrotor modeling and control in the **Journal of the Korean Society for Aeronautical and Space Sciences (KSAS)**.
+- *2024.06*: Presented a poster on Koopman operator-based aircraft rotational dynamics analysis and control at the **KIMST Annual Conference**.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+# 📝 Publications
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+## Journal
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+**[J1] Data-Driven Modeling and Control Using a Koopman Autoencoder: Application to a Quadrotor**  
+**Gyuyeon Lee**, Jongho Park*  
+*Journal of the Korean Society for Aeronautical and Space Sciences (KSAS)*, Vol. 54, No. 3, pp. 263–274, 2026. (In Korean)
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+## Conference
+
+**[C1] Analysis and Control of Aircraft Rotational Dynamics Based on Koopman Operator**  
+**Gyuyeon Lee**, Jongho Park*, Jaesung Lim  
+*The Korea Institute of Military Science and Technology (KIMST) Annual Conference*, Jeju, South Korea, Jun. 2024. (Poster)
+
+
+# 🧑‍🏫 Teaching Assistant
+
+- **Object-Oriented Programming**: Jul. 2024 - Dec. 2024
+- **Automatic Control**: Mar. 2024 - Jun. 2024
+- **Discrete Mathematics**: Mar. 2022 - Jun. 2022
+
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+- *2025*, **Kim Hye-jeong Scholarship**, Korea Meteorological Administration
+- *2021 - 2024*, **Defense IT Talent Scholarship**, Republic of Korea Air Force
+- *2024*, **2nd Prize**, Internship Experience Essay Contest, Ajou University
+
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.03 - 2027.08 (Expected)*, **B.S. in Military Digital Convergence**, Minor in Mechanical Engineering, Ajou University
+
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
+- *2024.01 - 2024.02*, **Structural Test Team Intern**, Korea Aerospace Industries (KAI), Sacheon, South Korea
+- *2023.06 - 2023.08*, **Algorithm Team Intern**, Xperix, Seoul, South Korea
