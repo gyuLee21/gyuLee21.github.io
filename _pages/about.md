@@ -45,7 +45,7 @@ I'm an undergraduate student in **Military Digital Convergence** at **Ajou Unive
 
 - *2026.07*, **Grand Prize**, AI Competition, 8th R.O.K. Air Force Creative & Innovative Idea Hackathon (Team: 작작기통통통)
 - *2025*, **Kim Hye-jeong Scholarship**, Korea Meteorological Administration
-- *2021 - 2024*, **Defense IT Talent Scholarship**, Republic of Korea Air Force
+- *2021 - 2024*, **Defense IT Excellence Scholarship (Type B)**, Ajou University
 - *2024*, **2nd Prize**, Internship Experience Essay Contest, Ajou University
 
 # 📖 Education
@@ -54,5 +54,5 @@ I'm an undergraduate student in **Military Digital Convergence** at **Ajou Unive
 
 # 💻 Internships
 
-- *2024.01 - 2024.02*, **Structural Test Team Intern**, Korea Aerospace Industries (KAI)
-- *2023.06 - 2023.08*, **Algorithm Team Intern**, Xperix
+- *2024.01 - 2024.02*, [Korea Aerospace Industries (KAI)](https://www.koreaaero.com/en/), Republic of Korea
+- *2023.06 - 2023.08*, [Xperix](https://www.xperix.com/), Republic of Korea
