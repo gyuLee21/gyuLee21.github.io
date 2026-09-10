@@ -23,7 +23,7 @@ I'm an undergraduate student in **Military Digital Convergence** at **Ajou Unive
 
 # 🔥 News
 
-- *2026.07*: 🏆 **Grand Prize**, AI Competition at the **8th R.O.K. Air Force Creative & Innovative Idea Hackathon** (Team: 작작기통통통)
+- *2026.07*: 🏆 **Grand Prize**, AI Competition at the **8th R.O.K. Air Force Creative & Innovative Idea Hackathon**
 - *2026.03*: Published a journal paper on Koopman autoencoder-based quadrotor modeling and control in **KSAS**
 - *2024.06*: Presented a poster at the **KIMST Annual Conference**
 
@@ -43,9 +43,9 @@ I'm an undergraduate student in **Military Digital Convergence** at **Ajou Unive
 
 # 🎖 Honors and Awards
 
-- *2026.07*, **Grand Prize**, AI Competition, 8th R.O.K. Air Force Creative & Innovative Idea Hackathon (Team: 작작기통통통)
+- *2026.07*, **Grand Prize**, AI Competition, 8th R.O.K. Air Force Creative & Innovative Idea Hackathon
 - *2025*, **Kim Hye-jeong Scholarship**, Korea Meteorological Administration
-- *2021 - 2024*, **Defense IT Excellence Scholarship (Type B)**, Ajou University
+- *2021 - 2024*, **Defense IT Excellence Scholarship (Type A)**, Ajou University
 - *2024*, **2nd Prize**, Internship Experience Essay Contest, Ajou University
 
 # 📖 Education
